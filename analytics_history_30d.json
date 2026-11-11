@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-10T23:59:45.905018+00:00",
+  "updated_at_utc": "2026-11-11T00:15:15.613694+00:00",
   "channels": {
     "stickman": {
       "title": "How It's Made Oficial",
@@ -119,6 +119,14 @@
         },
         {
           "day": "2026-11-10",
+          "type": "video",
+          "views": 4,
+          "minutes": 6.0,
+          "net_subs": 0,
+          "is_realtime": true
+        },
+        {
+          "day": "2026-11-11",
           "type": "shorts",
           "views": 0,
           "minutes": 0.0,
@@ -126,10 +134,10 @@
           "is_realtime": true
         },
         {
-          "day": "2026-11-10",
+          "day": "2026-11-11",
           "type": "video",
-          "views": 4,
-          "minutes": 6.0,
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -425,14 +433,20 @@
         },
         {
           "day": "2026-11-10",
+          "views": 4,
+          "minutes": 6.0,
+          "net_subs": 0
+        },
+        {
+          "day": "2026-11-11",
           "views": 0,
           "minutes": 0.0,
           "net_subs": 0
         },
         {
-          "day": "2026-11-10",
-          "views": 4,
-          "minutes": 6.0,
+          "day": "2026-11-11",
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0
         }
       ],
@@ -510,7 +524,7 @@
       "group": "Pessoais (Vitor)",
       "group_slug": "pessoal",
       "avatar_url": "https://yt3.ggpht.com/FCvbK6LfJRHAeqdwQ7p9tqlCn31dvnzWK5xupy98ZsjSkk5eaT36cjcIsut9iS1miawMe_61uQ=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 0,
+      "vph_60m": 1,
       "vph_48h": 0.3,
       "history_lifetime": [
         {
@@ -2924,6 +2938,14 @@
         },
         {
           "day": "2026-11-10",
+          "type": "video",
+          "views": 25,
+          "minutes": 37.5,
+          "net_subs": 0,
+          "is_realtime": true
+        },
+        {
+          "day": "2026-11-11",
           "type": "shorts",
           "views": 0,
           "minutes": 0.0,
@@ -2931,10 +2953,10 @@
           "is_realtime": true
         },
         {
-          "day": "2026-11-10",
+          "day": "2026-11-11",
           "type": "video",
-          "views": 25,
-          "minutes": 37.5,
+          "views": 1,
+          "minutes": 1.5,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -9803,12 +9825,6 @@
       ],
       "history_30d": [
         {
-          "day": "2026-10-11",
-          "views": 96,
-          "minutes": 192.0,
-          "net_subs": 1
-        },
-        {
           "day": "2026-10-12",
           "views": 84,
           "minutes": 146.0,
@@ -9984,14 +10000,20 @@
         },
         {
           "day": "2026-11-10",
+          "views": 25,
+          "minutes": 37.5,
+          "net_subs": 0
+        },
+        {
+          "day": "2026-11-11",
           "views": 0,
           "minutes": 0.0,
           "net_subs": 0
         },
         {
-          "day": "2026-11-10",
-          "views": 25,
-          "minutes": 37.5,
+          "day": "2026-11-11",
+          "views": 1,
+          "minutes": 1.5,
           "net_subs": 0
         }
       ],
@@ -10005,7 +10027,7 @@
         "published_formatted": "06/11 19:30",
         "rank": 6,
         "out_of": 8,
-        "diff_pct": -52.2,
+        "diff_pct": -52.3,
         "avg_prev": 94
       },
       "top_countries": [
@@ -10125,8 +10147,8 @@
       "group": "Pessoais (Vitor)",
       "group_slug": "pessoal",
       "avatar_url": "https://yt3.ggpht.com/devCRpUBJrmk-rVr8u2bGpku825XI6JGqHlfSu6Lm9qCe0GdpliqhwLKL6sek4FQSa2EwYuJ5GQ=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 3,
-      "vph_48h": 0.4,
+      "vph_60m": 0,
+      "vph_48h": 0.5,
       "history_lifetime": [
         {
           "day": "2026-10-15",
@@ -10313,6 +10335,14 @@
         },
         {
           "day": "2026-11-10",
+          "type": "video",
+          "views": 39,
+          "minutes": 58.5,
+          "net_subs": 0,
+          "is_realtime": true
+        },
+        {
+          "day": "2026-11-11",
           "type": "shorts",
           "views": 0,
           "minutes": 0.0,
@@ -10320,10 +10350,10 @@
           "is_realtime": true
         },
         {
-          "day": "2026-11-10",
+          "day": "2026-11-11",
           "type": "video",
-          "views": 39,
-          "minutes": 58.5,
+          "views": 9,
+          "minutes": 13.5,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -11364,14 +11394,20 @@
         },
         {
           "day": "2026-11-10",
+          "views": 39,
+          "minutes": 58.5,
+          "net_subs": 0
+        },
+        {
+          "day": "2026-11-11",
           "views": 0,
           "minutes": 0.0,
           "net_subs": 0
         },
         {
-          "day": "2026-11-10",
-          "views": 39,
-          "minutes": 58.5,
+          "day": "2026-11-11",
+          "views": 9,
+          "minutes": 13.5,
           "net_subs": 0
         }
       ],
@@ -11385,8 +11421,8 @@
         "published_formatted": "06/11 10:00",
         "rank": 6,
         "out_of": 10,
-        "diff_pct": -93.7,
-        "avg_prev": 159
+        "diff_pct": -93.8,
+        "avg_prev": 160
       },
       "top_countries": [
         {
@@ -11721,6 +11757,14 @@
         },
         {
           "day": "2026-11-10",
+          "type": "video",
+          "views": 5,
+          "minutes": 7.5,
+          "net_subs": 0,
+          "is_realtime": true
+        },
+        {
+          "day": "2026-11-11",
           "type": "shorts",
           "views": 0,
           "minutes": 0.0,
@@ -11728,10 +11772,10 @@
           "is_realtime": true
         },
         {
-          "day": "2026-11-10",
+          "day": "2026-11-11",
           "type": "video",
-          "views": 5,
-          "minutes": 7.5,
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -12818,12 +12862,6 @@
       ],
       "history_30d": [
         {
-          "day": "2026-10-11",
-          "views": 18,
-          "minutes": 83.0,
-          "net_subs": 2
-        },
-        {
           "day": "2026-10-12",
           "views": 58,
           "minutes": 227.0,
@@ -12999,14 +13037,20 @@
         },
         {
           "day": "2026-11-10",
+          "views": 5,
+          "minutes": 7.5,
+          "net_subs": 0
+        },
+        {
+          "day": "2026-11-11",
           "views": 0,
           "minutes": 0.0,
           "net_subs": 0
         },
         {
-          "day": "2026-11-10",
-          "views": 5,
-          "minutes": 7.5,
+          "day": "2026-11-11",
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0
         }
       ],
@@ -13553,6 +13597,14 @@
         },
         {
           "day": "2026-11-10",
+          "type": "video",
+          "views": 24,
+          "minutes": 36.0,
+          "net_subs": 0,
+          "is_realtime": true
+        },
+        {
+          "day": "2026-11-11",
           "type": "shorts",
           "views": 0,
           "minutes": 0.0,
@@ -13560,10 +13612,10 @@
           "is_realtime": true
         },
         {
-          "day": "2026-11-10",
+          "day": "2026-11-11",
           "type": "video",
-          "views": 24,
-          "minutes": 36.0,
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -14660,14 +14712,20 @@
         },
         {
           "day": "2026-11-10",
+          "views": 24,
+          "minutes": 36.0,
+          "net_subs": 0
+        },
+        {
+          "day": "2026-11-11",
           "views": 0,
           "minutes": 0.0,
           "net_subs": 0
         },
         {
-          "day": "2026-11-10",
-          "views": 24,
-          "minutes": 36.0,
+          "day": "2026-11-11",
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0
         }
       ],
@@ -14914,6 +14972,14 @@
         },
         {
           "day": "2026-11-10",
+          "type": "video",
+          "views": 2,
+          "minutes": 3.0,
+          "net_subs": 0,
+          "is_realtime": true
+        },
+        {
+          "day": "2026-11-11",
           "type": "shorts",
           "views": 0,
           "minutes": 0.0,
@@ -14921,10 +14987,10 @@
           "is_realtime": true
         },
         {
-          "day": "2026-11-10",
+          "day": "2026-11-11",
           "type": "video",
-          "views": 2,
-          "minutes": 3.0,
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -15557,14 +15623,20 @@
         },
         {
           "day": "2026-11-10",
+          "views": 2,
+          "minutes": 3.0,
+          "net_subs": 0
+        },
+        {
+          "day": "2026-11-11",
           "views": 0,
           "minutes": 0.0,
           "net_subs": 0
         },
         {
-          "day": "2026-11-10",
-          "views": 2,
-          "minutes": 3.0,
+          "day": "2026-11-11",
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0
         }
       ],
@@ -15749,6 +15821,14 @@
         },
         {
           "day": "2026-11-10",
+          "type": "video",
+          "views": 1,
+          "minutes": 1.5,
+          "net_subs": 0,
+          "is_realtime": true
+        },
+        {
+          "day": "2026-11-11",
           "type": "shorts",
           "views": 0,
           "minutes": 0.0,
@@ -15756,10 +15836,10 @@
           "is_realtime": true
         },
         {
-          "day": "2026-11-10",
+          "day": "2026-11-11",
           "type": "video",
-          "views": 1,
-          "minutes": 1.5,
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -15924,14 +16004,20 @@
         },
         {
           "day": "2026-11-10",
+          "views": 1,
+          "minutes": 1.5,
+          "net_subs": 0
+        },
+        {
+          "day": "2026-11-11",
           "views": 0,
           "minutes": 0.0,
           "net_subs": 0
         },
         {
-          "day": "2026-11-10",
-          "views": 1,
-          "minutes": 1.5,
+          "day": "2026-11-11",
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0
         }
       ],
