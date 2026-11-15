@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-15T04:45:22.919894+00:00",
+  "updated_at_utc": "2026-11-15T05:00:25.858819+00:00",
   "channels": {
     "stickman": {
       "title": "How It's Made Oficial",
@@ -590,7 +590,7 @@
       "group": "Pessoais (Vitor)",
       "group_slug": "pessoal",
       "avatar_url": "https://yt3.ggpht.com/rIRARjk3cqb5Hmji7bzt9JRRC38lS7Sg1pyI8drTQdhXB-1S9sHlKbWkx4xrPXdPLcK94ogRdw=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 2,
+      "vph_60m": 49,
       "vph_48h": 45.3,
       "history_lifetime": [
         {
@@ -3049,9 +3049,9 @@
         {
           "day": "2026-11-15",
           "type": "video",
-          "views": 69,
-          "minutes": 103.5,
-          "net_subs": 0,
+          "views": 82,
+          "minutes": 123.0,
+          "net_subs": 1,
           "is_realtime": true
         }
       ],
@@ -9725,7 +9725,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 15
+          "views": 17
         },
         {
           "day": "2026-11-02",
@@ -10204,9 +10204,9 @@
         },
         {
           "day": "2026-11-15",
-          "views": 69,
-          "minutes": 103.5,
-          "net_subs": 0
+          "views": 82,
+          "minutes": 123.0,
+          "net_subs": 1
         }
       ],
       "traffic_sources_30d": [],
@@ -10220,7 +10220,7 @@
         "rank": 10,
         "out_of": 10,
         "diff_pct": -99.6,
-        "avg_prev": 277
+        "avg_prev": 279
       },
       "top_countries": [
         {
@@ -10339,7 +10339,7 @@
       "group": "Pessoais (Vitor)",
       "group_slug": "pessoal",
       "avatar_url": "https://yt3.ggpht.com/devCRpUBJrmk-rVr8u2bGpku825XI6JGqHlfSu6Lm9qCe0GdpliqhwLKL6sek4FQSa2EwYuJ5GQ=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 2,
+      "vph_60m": 0,
       "vph_48h": 0.7,
       "history_lifetime": [
         {
@@ -10572,8 +10572,8 @@
         {
           "day": "2026-11-15",
           "type": "video",
-          "views": 8,
-          "minutes": 12.0,
+          "views": 6,
+          "minutes": 9.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -11214,7 +11214,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 76
+          "views": 77
         },
         {
           "day": "2026-11-01",
@@ -11777,8 +11777,8 @@
         },
         {
           "day": "2026-11-15",
-          "views": 8,
-          "minutes": 12.0,
+          "views": 6,
+          "minutes": 9.0,
           "net_subs": 0
         }
       ],
@@ -13046,7 +13046,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 4
+          "views": 2
         },
         {
           "day": "2026-11-01",
@@ -13067,7 +13067,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 12
+          "views": 14
         },
         {
           "day": "2026-11-02",
@@ -13583,7 +13583,7 @@
       "group": "Pessoais (Vitor)",
       "group_slug": "pessoal",
       "avatar_url": "https://yt3.ggpht.com/GvkrbIFed7MJzRUtmKbOctx9f7-Az6du7c2VVq7FMf9LqUbyzO4zuMzmO7_MrAj8wWNj1d5Q1Q=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 2,
+      "vph_60m": 0,
       "vph_48h": 0.3,
       "history_lifetime": [
         {
@@ -14886,7 +14886,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 2
+          "views": 1
         },
         {
           "day": "2026-11-01",
@@ -15365,7 +15365,7 @@
           "device": "MOBILE",
           "label": "Celular / Mobile",
           "icon": "smartphone",
-          "views": 2268,
+          "views": 2267,
           "pct": 80.9
         },
         {
@@ -15393,7 +15393,7 @@
       "audience_status": {
         "subscribed_views": 90,
         "subscribed_pct": 3.2,
-        "unsubscribed_views": 2713,
+        "unsubscribed_views": 2712,
         "unsubscribed_pct": 96.8
       },
       "engagement": {
