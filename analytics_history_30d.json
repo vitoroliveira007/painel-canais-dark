@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-18T13:15:17.918388+00:00",
+  "updated_at_utc": "2026-11-18T13:30:20.235954+00:00",
   "channels": {
     "stickman": {
       "title": "How It's Made Oficial",
@@ -7,7 +7,7 @@
       "group": "Pessoais (Vitor)",
       "group_slug": "pessoal",
       "avatar_url": "https://yt3.ggpht.com/goglhVSAtKGaDmImc5ImFHN2xuRVe6nO1kEAgvRRcCFNDnc2Ll9gExh9kTtvyWzn7cWvBOZF=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 0,
+      "vph_60m": 1,
       "vph_48h": 0.1,
       "history_lifetime": [
         {
@@ -184,8 +184,8 @@
         {
           "day": "2026-11-18",
           "type": "video",
-          "views": 16,
-          "minutes": 24.0,
+          "views": 17,
+          "minutes": 25.5,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -591,8 +591,8 @@
         },
         {
           "day": "2026-11-18",
-          "views": 16,
-          "minutes": 24.0,
+          "views": 17,
+          "minutes": 25.5,
           "net_subs": 0
         }
       ],
@@ -602,11 +602,11 @@
         "title": "How Pencils Are Made: From Graphite and Cedar to Your Desk",
         "url": "https://youtu.be/PXUBwSd5Oig",
         "thumbnail": "https://i.ytimg.com/vi/PXUBwSd5Oig/mqdefault.jpg",
-        "views": 17,
+        "views": 18,
         "published_formatted": "17/11 19:30",
         "rank": 1,
         "out_of": 4,
-        "diff_pct": 1666.7,
+        "diff_pct": 1766.7,
         "avg_prev": 0
       },
       "top_countries": [
@@ -670,7 +670,7 @@
       "group": "Pessoais (Vitor)",
       "group_slug": "pessoal",
       "avatar_url": "https://yt3.ggpht.com/rIRARjk3cqb5Hmji7bzt9JRRC38lS7Sg1pyI8drTQdhXB-1S9sHlKbWkx4xrPXdPLcK94ogRdw=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 59,
+      "vph_60m": 68,
       "vph_48h": 8.2,
       "history_lifetime": [
         {
@@ -3171,8 +3171,8 @@
         {
           "day": "2026-11-18",
           "type": "video",
-          "views": 351,
-          "minutes": 526.5,
+          "views": 360,
+          "minutes": 540.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -10190,14 +10190,14 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 2
+          "views": 1
         },
         {
           "day": "2026-11-14",
           "source": "SUBSCRIBER",
           "label": "Feed de Inscrições",
           "type": "video",
-          "views": 16
+          "views": 15
         },
         {
           "day": "2026-11-14",
@@ -10232,7 +10232,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 36
+          "views": 37
         },
         {
           "day": "2026-11-14",
@@ -10253,7 +10253,7 @@
           "source": "SHORTS",
           "label": "Feed do Shorts",
           "type": "shorts",
-          "views": 1238
+          "views": 1206
         },
         {
           "day": "2026-11-15",
@@ -10533,8 +10533,8 @@
         },
         {
           "day": "2026-11-18",
-          "views": 351,
-          "minutes": 526.5,
+          "views": 360,
+          "minutes": 540.0,
           "net_subs": 0
         }
       ],
@@ -10549,7 +10549,7 @@
         "rank": 9,
         "out_of": 10,
         "diff_pct": -99.6,
-        "avg_prev": 518
+        "avg_prev": 519
       },
       "top_countries": [
         {
@@ -10622,35 +10622,35 @@
           "device": "MOBILE",
           "label": "Celular / Mobile",
           "icon": "smartphone",
-          "views": 52921,
+          "views": 52909,
           "pct": 86.8
         },
         {
           "device": "TV",
           "label": "TV Conectada",
           "icon": "tv",
-          "views": 4677,
-          "pct": 7.7
+          "views": 4659,
+          "pct": 7.6
         },
         {
           "device": "DESKTOP",
           "label": "Computador / Desktop",
           "icon": "monitor",
-          "views": 2556,
+          "views": 2555,
           "pct": 4.2
         },
         {
           "device": "TABLET",
           "label": "Tablet",
           "icon": "tablet",
-          "views": 807,
+          "views": 805,
           "pct": 1.3
         }
       ],
       "audience_status": {
         "subscribed_views": 1409,
         "subscribed_pct": 2.3,
-        "unsubscribed_views": 59555,
+        "unsubscribed_views": 59522,
         "unsubscribed_pct": 97.7
       },
       "engagement": {
@@ -11977,12 +11977,19 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 45
+          "views": 44
         },
         {
           "day": "2026-11-14",
           "source": "PLAYLIST",
           "label": "Playlists",
+          "type": "video",
+          "views": 1
+        },
+        {
+          "day": "2026-11-14",
+          "source": "NO_LINK_OTHER",
+          "label": "Direto / Desconhecido",
           "type": "video",
           "views": 1
         },
