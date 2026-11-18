@@ -2037,6 +2037,103 @@
           "videos": {}
         }
       }
+    },
+    "2026-11-18": {
+      "date": "2026-11-18",
+      "updated_at_utc": "2026-11-18T00:00:28.298290+00:00",
+      "channels": {
+        "stickman": {
+          "title": "How It's Made Oficial",
+          "handle": "@howitsmadeoficial",
+          "subscribers": 1,
+          "total_views": 1,
+          "views_48h": 3,
+          "views_60m": 3,
+          "views_7d": 9,
+          "watch_minutes_7d": 1.0,
+          "total_videos_publicos": 4,
+          "total_videos_agendados": 4,
+          "videos": {}
+        },
+        "biblia": {
+          "title": "Bíblia Oculta",
+          "handle": "@bibliaoculta7",
+          "subscribers": 321,
+          "total_views": 3652,
+          "views_48h": 1119,
+          "views_60m": 63,
+          "views_7d": 3675,
+          "watch_minutes_7d": 2121.0,
+          "total_videos_publicos": 9,
+          "total_videos_agendados": 13,
+          "videos": {}
+        },
+        "indiano_doc": {
+          "title": "Untold Bharat",
+          "handle": "@uuntoldbharat2d",
+          "subscribers": 11,
+          "total_views": 4539,
+          "views_48h": 355,
+          "views_60m": 4,
+          "views_7d": 403,
+          "watch_minutes_7d": 4896.0,
+          "total_videos_publicos": 17,
+          "total_videos_agendados": 1,
+          "videos": {}
+        },
+        "espaco": {
+          "title": "Cosmic Abyss",
+          "handle": "@cosmicabyssdoc",
+          "subscribers": 10,
+          "total_views": 16,
+          "views_48h": 8,
+          "views_60m": 0,
+          "views_7d": 42,
+          "watch_minutes_7d": 357.0,
+          "total_videos_publicos": 5,
+          "total_videos_agendados": 5,
+          "videos": {}
+        },
+        "novela": {
+          "title": "Lorena Vane",
+          "handle": "@lorenavane1",
+          "subscribers": 31,
+          "total_views": 798,
+          "views_48h": 55,
+          "views_60m": 3,
+          "views_7d": 110,
+          "watch_minutes_7d": 465.0,
+          "total_videos_publicos": 6,
+          "total_videos_agendados": 0,
+          "videos": {}
+        },
+        "hearttangle": {
+          "title": "HeartTangle",
+          "handle": "@heartangle2d",
+          "subscribers": 12,
+          "total_views": 4330,
+          "views_48h": 0,
+          "views_60m": 0,
+          "views_7d": 5,
+          "watch_minutes_7d": 3.0,
+          "total_videos_publicos": 12,
+          "total_videos_agendados": 0,
+          "videos": {}
+        },
+        "segredos_olga": {
+          "title": "Segredos da Olga",
+          "handle": "@segredosdaolga",
+          "subscribers": 0,
+          "total_views": 22,
+          "views_48h": 1,
+          "views_60m": 0,
+          "views_7d": 2,
+          "watch_minutes_7d": 0.0,
+          "total_videos_publicos": 10,
+          "total_videos_agendados": 0,
+          "videos": {}
+        }
+      }
     }
   }
 }
