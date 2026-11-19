@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-19T23:15:28.363303+00:00",
+  "updated_at_utc": "2026-11-19T23:30:23.484044+00:00",
   "channels": {
     "stickman": {
       "title": "Conta Desativada 3",
@@ -9894,7 +9894,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 17
+          "views": 15
         },
         {
           "day": "2026-11-02",
@@ -11741,7 +11741,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 77
+          "views": 76
         },
         {
           "day": "2026-11-01",
@@ -13754,7 +13754,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 2
+          "views": 4
         },
         {
           "day": "2026-11-01",
@@ -13775,7 +13775,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 14
+          "views": 12
         },
         {
           "day": "2026-11-02",
@@ -14909,8 +14909,8 @@
         {
           "day": "2026-11-19",
           "type": "video",
-          "views": 27,
-          "minutes": 40.5,
+          "views": 26,
+          "minutes": 39.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -15698,7 +15698,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 1
+          "views": 2
         },
         {
           "day": "2026-11-01",
@@ -16238,8 +16238,8 @@
         },
         {
           "day": "2026-11-19",
-          "views": 27,
-          "minutes": 40.5,
+          "views": 26,
+          "minutes": 39.0,
           "net_subs": 0
         }
       ],
@@ -16287,7 +16287,7 @@
           "device": "MOBILE",
           "label": "Celular / Mobile",
           "icon": "smartphone",
-          "views": 2345,
+          "views": 2346,
           "pct": 80.6
         },
         {
@@ -16315,7 +16315,7 @@
       "audience_status": {
         "subscribed_views": 90,
         "subscribed_pct": 3.1,
-        "unsubscribed_views": 2818,
+        "unsubscribed_views": 2819,
         "unsubscribed_pct": 96.9
       },
       "engagement": {
