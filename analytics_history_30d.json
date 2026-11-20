@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-20T21:15:22.183524+00:00",
+  "updated_at_utc": "2026-11-20T21:30:22.504768+00:00",
   "channels": {
     "stickman": {
       "title": "Conta Desativada 3",
@@ -703,7 +703,7 @@
       "group": "Pessoais (Vitor)",
       "group_slug": "pessoal",
       "avatar_url": "https://yt3.ggpht.com/rIRARjk3cqb5Hmji7bzt9JRRC38lS7Sg1pyI8drTQdhXB-1S9sHlKbWkx4xrPXdPLcK94ogRdw=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 137,
+      "vph_60m": 138,
       "vph_48h": 9.1,
       "history_lifetime": [
         {
@@ -3238,8 +3238,8 @@
         {
           "day": "2026-11-20",
           "type": "video",
-          "views": 48,
-          "minutes": 72.0,
+          "views": 53,
+          "minutes": 79.5,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -9914,7 +9914,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 17
+          "views": 15
         },
         {
           "day": "2026-11-02",
@@ -10786,8 +10786,8 @@
         },
         {
           "day": "2026-11-20",
-          "views": 48,
-          "minutes": 72.0,
+          "views": 53,
+          "minutes": 79.5,
           "net_subs": 0
         }
       ],
@@ -10802,7 +10802,7 @@
         "rank": 8,
         "out_of": 10,
         "diff_pct": -93.2,
-        "avg_prev": 427
+        "avg_prev": 428
       },
       "top_countries": [
         {
@@ -13863,7 +13863,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 2
+          "views": 4
         },
         {
           "day": "2026-11-01",
@@ -13884,7 +13884,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 14
+          "views": 12
         },
         {
           "day": "2026-11-02",
@@ -15822,7 +15822,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 1
+          "views": 2
         },
         {
           "day": "2026-11-01",
@@ -16445,7 +16445,7 @@
           "device": "MOBILE",
           "label": "Celular / Mobile",
           "icon": "smartphone",
-          "views": 2361,
+          "views": 2362,
           "pct": 80.4
         },
         {
@@ -16473,7 +16473,7 @@
       "audience_status": {
         "subscribed_views": 90,
         "subscribed_pct": 3.1,
-        "unsubscribed_views": 2845,
+        "unsubscribed_views": 2846,
         "unsubscribed_pct": 96.9
       },
       "engagement": {
