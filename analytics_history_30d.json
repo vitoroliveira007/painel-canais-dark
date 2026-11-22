@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-22T17:00:26.477169+00:00",
+  "updated_at_utc": "2026-11-22T17:15:20.740984+00:00",
   "channels": {
     "stickman": {
       "title": "Conta Desativada 3",
@@ -703,7 +703,7 @@
       "group": "Pessoais (Vitor)",
       "group_slug": "pessoal",
       "avatar_url": "https://yt3.ggpht.com/rIRARjk3cqb5Hmji7bzt9JRRC38lS7Sg1pyI8drTQdhXB-1S9sHlKbWkx4xrPXdPLcK94ogRdw=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 137,
+      "vph_60m": 138,
       "vph_48h": 9.1,
       "history_lifetime": [
         {
@@ -3253,8 +3253,8 @@
         {
           "day": "2026-11-22",
           "type": "video",
-          "views": 2,
-          "minutes": 3.0,
+          "views": 3,
+          "minutes": 4.5,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -9929,7 +9929,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 17
+          "views": 15
         },
         {
           "day": "2026-11-02",
@@ -10815,8 +10815,8 @@
         },
         {
           "day": "2026-11-22",
-          "views": 2,
-          "minutes": 3.0,
+          "views": 3,
+          "minutes": 4.5,
           "net_subs": 0
         }
       ],
@@ -11851,7 +11851,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 77
+          "views": 76
         },
         {
           "day": "2026-11-01",
@@ -13880,7 +13880,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 2
+          "views": 4
         },
         {
           "day": "2026-11-01",
@@ -13901,7 +13901,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 14
+          "views": 12
         },
         {
           "day": "2026-11-02",
@@ -15834,7 +15834,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 1
+          "views": 2
         },
         {
           "day": "2026-11-01",
@@ -16484,7 +16484,7 @@
           "device": "MOBILE",
           "label": "Celular / Mobile",
           "icon": "smartphone",
-          "views": 2376,
+          "views": 2377,
           "pct": 80.4
         },
         {
@@ -16512,7 +16512,7 @@
       "audience_status": {
         "subscribed_views": 90,
         "subscribed_pct": 3.0,
-        "unsubscribed_views": 2867,
+        "unsubscribed_views": 2868,
         "unsubscribed_pct": 97.0
       },
       "engagement": {
