@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-22T21:00:28.773433+00:00",
+  "updated_at_utc": "2026-11-22T21:15:19.900734+00:00",
   "channels": {
     "stickman": {
       "title": "Conta Desativada 3",
@@ -3252,8 +3252,8 @@
         {
           "day": "2026-11-22",
           "type": "video",
-          "views": 4,
-          "minutes": 6.0,
+          "views": 2,
+          "minutes": 3.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -9928,7 +9928,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 17
+          "views": 15
         },
         {
           "day": "2026-11-02",
@@ -10835,8 +10835,8 @@
         },
         {
           "day": "2026-11-22",
-          "views": 4,
-          "minutes": 6.0,
+          "views": 2,
+          "minutes": 3.0,
           "net_subs": 0
         }
       ],
@@ -11871,7 +11871,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 77
+          "views": 76
         },
         {
           "day": "2026-11-01",
@@ -13900,7 +13900,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 2
+          "views": 4
         },
         {
           "day": "2026-11-01",
@@ -13921,7 +13921,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 14
+          "views": 12
         },
         {
           "day": "2026-11-02",
@@ -15064,8 +15064,8 @@
         {
           "day": "2026-11-22",
           "type": "video",
-          "views": 1,
-          "minutes": 1.5,
+          "views": 2,
+          "minutes": 3.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -15853,7 +15853,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 1
+          "views": 2
         },
         {
           "day": "2026-11-01",
@@ -16468,8 +16468,8 @@
         },
         {
           "day": "2026-11-22",
-          "views": 1,
-          "minutes": 1.5,
+          "views": 2,
+          "minutes": 3.0,
           "net_subs": 0
         }
       ],
@@ -16517,7 +16517,7 @@
           "device": "MOBILE",
           "label": "Celular / Mobile",
           "icon": "smartphone",
-          "views": 2381,
+          "views": 2382,
           "pct": 80.4
         },
         {
@@ -16545,7 +16545,7 @@
       "audience_status": {
         "subscribed_views": 90,
         "subscribed_pct": 3.0,
-        "unsubscribed_views": 2872,
+        "unsubscribed_views": 2873,
         "unsubscribed_pct": 97.0
       },
       "engagement": {
