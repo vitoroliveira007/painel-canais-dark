@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-23T02:45:32.608629+00:00",
+  "updated_at_utc": "2026-11-23T03:00:29.802503+00:00",
   "channels": {
     "stickman": {
       "title": "Conta Desativada 3",
@@ -3260,8 +3260,8 @@
         {
           "day": "2026-11-23",
           "type": "video",
-          "views": 1,
-          "minutes": 1.5,
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -10843,8 +10843,8 @@
         },
         {
           "day": "2026-11-23",
-          "views": 1,
-          "minutes": 1.5,
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0
         }
       ],
@@ -10856,7 +10856,7 @@
         "thumbnail": "https://i.ytimg.com/vi/sOLN_hYgW9M/mqdefault.jpg",
         "views": 0,
         "published_formatted": "22/11 19:30",
-        "rank": 10,
+        "rank": 9,
         "out_of": 10,
         "diff_pct": -100.0,
         "avg_prev": 174
