@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-23T18:00:29.443081+00:00",
+  "updated_at_utc": "2026-11-23T18:15:20.592920+00:00",
   "channels": {
     "stickman": {
       "title": "Conta Desativada 3",
@@ -11879,7 +11879,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 76
+          "views": 77
         },
         {
           "day": "2026-11-01",
@@ -13902,7 +13902,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 4
+          "views": 2
         },
         {
           "day": "2026-11-01",
@@ -13923,7 +13923,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 12
+          "views": 14
         },
         {
           "day": "2026-11-02",
@@ -15857,7 +15857,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 2
+          "views": 1
         },
         {
           "day": "2026-11-01",
@@ -16527,7 +16527,7 @@
           "device": "MOBILE",
           "label": "Celular / Mobile",
           "icon": "smartphone",
-          "views": 2381,
+          "views": 2380,
           "pct": 80.4
         },
         {
@@ -16555,7 +16555,7 @@
       "audience_status": {
         "subscribed_views": 90,
         "subscribed_pct": 3.0,
-        "unsubscribed_views": 2872,
+        "unsubscribed_views": 2871,
         "unsubscribed_pct": 97.0
       },
       "engagement": {
@@ -16573,7 +16573,7 @@
       "group": "Startup GVG (Vitor + Amigo)",
       "group_slug": "gvg",
       "avatar_url": "https://yt3.ggpht.com/BVmsrWlRE6h3-C7jk6vUOqa3hpdBSjGJQ1JkkvXV0tnOItk5ev9t-VE8WYtOnGE-VAZcfmgsMw=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 0,
+      "vph_60m": 1,
       "vph_48h": 0.0,
       "history_lifetime": [
         {
@@ -16771,8 +16771,8 @@
         {
           "day": "2026-11-23",
           "type": "video",
-          "views": 2,
-          "minutes": 3.0,
+          "views": 3,
+          "minutes": 4.5,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -17446,8 +17446,8 @@
         },
         {
           "day": "2026-11-23",
-          "views": 2,
-          "minutes": 3.0,
+          "views": 3,
+          "minutes": 4.5,
           "net_subs": 0
         }
       ],
@@ -17533,7 +17533,7 @@
       "group": "Startup GVG (Vitor + Amigo)",
       "group_slug": "gvg",
       "avatar_url": "https://yt3.ggpht.com/t1Eiys8HqrCd5SX9moZeU1YitQofpQvWxfoS3xD_HxnLYznco-LqvSlPEVLG4mZytRryx7Kr2w=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 0,
+      "vph_60m": 1,
       "vph_48h": 0.0,
       "history_lifetime": [
         {
@@ -17708,8 +17708,8 @@
         {
           "day": "2026-11-23",
           "type": "video",
-          "views": 1,
-          "minutes": 1.5,
+          "views": 2,
+          "minutes": 3.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -17957,8 +17957,8 @@
         },
         {
           "day": "2026-11-23",
-          "views": 1,
-          "minutes": 1.5,
+          "views": 2,
+          "minutes": 3.0,
           "net_subs": 0
         }
       ],
@@ -17968,11 +17968,11 @@
         "title": "A Sogra a Expulsou Sem Nada Quando o Rancho Queimou… Mas Cada Tijolo Seria Devolvido em Ouro",
         "url": "https://youtu.be/gDU0wKUZgrY",
         "thumbnail": "https://i.ytimg.com/vi/gDU0wKUZgrY/mqdefault.jpg",
-        "views": 2,
+        "views": 3,
         "published_formatted": "01/11 19:30",
-        "rank": 5,
+        "rank": 3,
         "out_of": 10,
-        "diff_pct": -21.7,
+        "diff_pct": 17.4,
         "avg_prev": 3
       },
       "top_countries": [],
