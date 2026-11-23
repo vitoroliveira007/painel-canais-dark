@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-23T07:15:30.582433+00:00",
+  "updated_at_utc": "2026-11-23T07:30:22.758113+00:00",
   "channels": {
     "stickman": {
       "title": "Conta Desativada 3",
@@ -703,7 +703,7 @@
       "group": "Pessoais (Vitor)",
       "group_slug": "pessoal",
       "avatar_url": "https://yt3.ggpht.com/rIRARjk3cqb5Hmji7bzt9JRRC38lS7Sg1pyI8drTQdhXB-1S9sHlKbWkx4xrPXdPLcK94ogRdw=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 137,
+      "vph_60m": 138,
       "vph_48h": 8.8,
       "history_lifetime": [
         {
@@ -3260,8 +3260,8 @@
         {
           "day": "2026-11-23",
           "type": "video",
-          "views": 5,
-          "minutes": 7.5,
+          "views": 2,
+          "minutes": 3.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -9936,7 +9936,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 17
+          "views": 15
         },
         {
           "day": "2026-11-02",
@@ -10843,8 +10843,8 @@
         },
         {
           "day": "2026-11-23",
-          "views": 5,
-          "minutes": 7.5,
+          "views": 2,
+          "minutes": 3.0,
           "net_subs": 0
         }
       ],
@@ -10854,11 +10854,11 @@
         "title": "ESTER: A Rainha Que Escondia um SEGREDO Mortal",
         "url": "https://youtu.be/sOLN_hYgW9M",
         "thumbnail": "https://i.ytimg.com/vi/sOLN_hYgW9M/mqdefault.jpg",
-        "views": 0,
+        "views": 1,
         "published_formatted": "22/11 19:30",
-        "rank": 10,
+        "rank": 9,
         "out_of": 10,
-        "diff_pct": -100.0,
+        "diff_pct": -99.4,
         "avg_prev": 174
       },
       "top_countries": [
@@ -11879,7 +11879,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 77
+          "views": 76
         },
         {
           "day": "2026-11-01",
@@ -13902,7 +13902,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 2
+          "views": 4
         },
         {
           "day": "2026-11-01",
@@ -13923,7 +13923,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 14
+          "views": 12
         },
         {
           "day": "2026-11-02",
@@ -15857,7 +15857,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 1
+          "views": 2
         },
         {
           "day": "2026-11-01",
@@ -16527,7 +16527,7 @@
           "device": "MOBILE",
           "label": "Celular / Mobile",
           "icon": "smartphone",
-          "views": 2380,
+          "views": 2381,
           "pct": 80.4
         },
         {
@@ -16555,7 +16555,7 @@
       "audience_status": {
         "subscribed_views": 90,
         "subscribed_pct": 3.0,
-        "unsubscribed_views": 2871,
+        "unsubscribed_views": 2872,
         "unsubscribed_pct": 97.0
       },
       "engagement": {
