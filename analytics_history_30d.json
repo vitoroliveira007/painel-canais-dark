@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-25T23:15:29.747065+00:00",
+  "updated_at_utc": "2026-11-25T23:30:23.489460+00:00",
   "channels": {
     "stickman": {
       "title": "Conta Desativada 3",
@@ -703,7 +703,7 @@
       "group": "Pessoais (Vitor)",
       "group_slug": "pessoal",
       "avatar_url": "https://yt3.ggpht.com/rIRARjk3cqb5Hmji7bzt9JRRC38lS7Sg1pyI8drTQdhXB-1S9sHlKbWkx4xrPXdPLcK94ogRdw=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 137,
+      "vph_60m": 138,
       "vph_48h": 8.7,
       "history_lifetime": [
         {
@@ -3273,8 +3273,8 @@
         {
           "day": "2026-11-25",
           "type": "video",
-          "views": 1,
-          "minutes": 1.5,
+          "views": 2,
+          "minutes": 3.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -10919,8 +10919,8 @@
         },
         {
           "day": "2026-11-25",
-          "views": 1,
-          "minutes": 1.5,
+          "views": 2,
+          "minutes": 3.0,
           "net_subs": 0
         }
       ],
@@ -15936,7 +15936,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 1
+          "views": 2
         },
         {
           "day": "2026-11-01",
@@ -16653,7 +16653,7 @@
           "device": "MOBILE",
           "label": "Celular / Mobile",
           "icon": "smartphone",
-          "views": 2384,
+          "views": 2385,
           "pct": 80.3
         },
         {
@@ -16681,7 +16681,7 @@
       "audience_status": {
         "subscribed_views": 90,
         "subscribed_pct": 3.0,
-        "unsubscribed_views": 2878,
+        "unsubscribed_views": 2879,
         "unsubscribed_pct": 97.0
       },
       "engagement": {
