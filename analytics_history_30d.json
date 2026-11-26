@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-26T15:00:30.859674+00:00",
+  "updated_at_utc": "2026-11-26T15:15:22.181447+00:00",
   "channels": {
     "stickman": {
       "title": "Conta Desativada 3",
@@ -14561,7 +14561,7 @@
       "group": "Pessoais (Vitor)",
       "group_slug": "pessoal",
       "avatar_url": "https://yt3.ggpht.com/GvkrbIFed7MJzRUtmKbOctx9f7-Az6du7c2VVq7FMf9LqUbyzO4zuMzmO7_MrAj8wWNj1d5Q1Q=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 0,
+      "vph_60m": 1,
       "vph_48h": 0.0,
       "history_lifetime": [
         {
@@ -15145,8 +15145,8 @@
         {
           "day": "2026-11-26",
           "type": "video",
-          "views": 0,
-          "minutes": 0.0,
+          "views": 1,
+          "minutes": 1.5,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -16602,8 +16602,8 @@
         },
         {
           "day": "2026-11-26",
-          "views": 0,
-          "minutes": 0.0,
+          "views": 1,
+          "minutes": 1.5,
           "net_subs": 0
         }
       ],
@@ -16618,7 +16618,7 @@
         "rank": 4,
         "out_of": 6,
         "diff_pct": -75.5,
-        "avg_prev": 167
+        "avg_prev": 168
       },
       "top_countries": [
         {
