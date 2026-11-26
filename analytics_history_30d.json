@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-26T13:45:22.193351+00:00",
+  "updated_at_utc": "2026-11-26T14:00:38.124580+00:00",
   "channels": {
     "stickman": {
       "title": "Conta Desativada 3",
@@ -9951,7 +9951,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 17
+          "views": 15
         },
         {
           "day": "2026-11-02",
@@ -15145,8 +15145,8 @@
         {
           "day": "2026-11-26",
           "type": "video",
-          "views": 0,
-          "minutes": 0.0,
+          "views": 1,
+          "minutes": 1.5,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -15934,7 +15934,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 1
+          "views": 2
         },
         {
           "day": "2026-11-01",
@@ -16602,8 +16602,8 @@
         },
         {
           "day": "2026-11-26",
-          "views": 0,
-          "minutes": 0.0,
+          "views": 1,
+          "minutes": 1.5,
           "net_subs": 0
         }
       ],
@@ -16618,7 +16618,7 @@
         "rank": 4,
         "out_of": 6,
         "diff_pct": -75.5,
-        "avg_prev": 167
+        "avg_prev": 168
       },
       "top_countries": [
         {
@@ -16651,7 +16651,7 @@
           "device": "MOBILE",
           "label": "Celular / Mobile",
           "icon": "smartphone",
-          "views": 2384,
+          "views": 2385,
           "pct": 80.3
         },
         {
@@ -16679,7 +16679,7 @@
       "audience_status": {
         "subscribed_views": 90,
         "subscribed_pct": 3.0,
-        "unsubscribed_views": 2878,
+        "unsubscribed_views": 2879,
         "unsubscribed_pct": 97.0
       },
       "engagement": {
