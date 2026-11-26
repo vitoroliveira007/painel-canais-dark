@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-26T13:30:33.735177+00:00",
+  "updated_at_utc": "2026-11-26T13:45:22.193351+00:00",
   "channels": {
     "stickman": {
       "title": "Conta Desativada 3",
@@ -11957,7 +11957,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 77
+          "views": 76
         },
         {
           "day": "2026-11-01",
@@ -13969,7 +13969,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 2
+          "views": 4
         },
         {
           "day": "2026-11-01",
@@ -13990,7 +13990,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 14
+          "views": 12
         },
         {
           "day": "2026-11-02",
@@ -15145,8 +15145,8 @@
         {
           "day": "2026-11-26",
           "type": "video",
-          "views": 1,
-          "minutes": 1.5,
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -16602,8 +16602,8 @@
         },
         {
           "day": "2026-11-26",
-          "views": 1,
-          "minutes": 1.5,
+          "views": 0,
+          "minutes": 0.0,
           "net_subs": 0
         }
       ],
@@ -16618,7 +16618,7 @@
         "rank": 4,
         "out_of": 6,
         "diff_pct": -75.5,
-        "avg_prev": 168
+        "avg_prev": 167
       },
       "top_countries": [
         {
