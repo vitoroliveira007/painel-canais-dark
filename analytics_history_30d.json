@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-27T16:45:23.178387+00:00",
+  "updated_at_utc": "2026-11-27T17:00:26.345483+00:00",
   "channels": {
     "stickman": {
       "title": "Conta Desativada 3",
@@ -691,7 +691,7 @@
       "group": "Pessoais (Vitor)",
       "group_slug": "pessoal",
       "avatar_url": "https://yt3.ggpht.com/rIRARjk3cqb5Hmji7bzt9JRRC38lS7Sg1pyI8drTQdhXB-1S9sHlKbWkx4xrPXdPLcK94ogRdw=s240-c-k-c0x00ffffff-no-rj",
-      "vph_60m": 137,
+      "vph_60m": 138,
       "vph_48h": 8.6,
       "history_lifetime": [
         {
@@ -3276,8 +3276,8 @@
         {
           "day": "2026-11-27",
           "type": "video",
-          "views": 0,
-          "minutes": 0.0,
+          "views": 1,
+          "minutes": 1.5,
           "net_subs": 0,
           "is_realtime": true
         }
@@ -9952,7 +9952,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 15
+          "views": 17
         },
         {
           "day": "2026-11-02",
@@ -10929,8 +10929,8 @@
         },
         {
           "day": "2026-11-27",
-          "views": 0,
-          "minutes": 0.0,
+          "views": 1,
+          "minutes": 1.5,
           "net_subs": 0
         }
       ],
@@ -10942,7 +10942,7 @@
         "thumbnail": "https://i.ytimg.com/vi/zy2sjAByRzw/mqdefault.jpg",
         "views": 1,
         "published_formatted": "23/11 19:30",
-        "rank": 8,
+        "rank": 9,
         "out_of": 10,
         "diff_pct": -99.4,
         "avg_prev": 174
@@ -11965,7 +11965,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 76
+          "views": 77
         },
         {
           "day": "2026-11-01",
@@ -13971,7 +13971,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 4
+          "views": 2
         },
         {
           "day": "2026-11-01",
@@ -13992,7 +13992,7 @@
           "source": "RELATED_VIDEO",
           "label": "Vídeos Sugeridos",
           "type": "video",
-          "views": 12
+          "views": 14
         },
         {
           "day": "2026-11-02",
@@ -15937,7 +15937,7 @@
           "source": "NO_LINK_OTHER",
           "label": "Direto / Desconhecido",
           "type": "video",
-          "views": 2
+          "views": 1
         },
         {
           "day": "2026-11-01",
@@ -16662,7 +16662,7 @@
           "device": "MOBILE",
           "label": "Celular / Mobile",
           "icon": "smartphone",
-          "views": 2387,
+          "views": 2386,
           "pct": 80.3
         },
         {
@@ -16690,7 +16690,7 @@
       "audience_status": {
         "subscribed_views": 90,
         "subscribed_pct": 3.0,
-        "unsubscribed_views": 2881,
+        "unsubscribed_views": 2880,
         "unsubscribed_pct": 97.0
       },
       "engagement": {
