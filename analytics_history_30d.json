@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-27T07:15:18.724101+00:00",
+  "updated_at_utc": "2026-11-27T07:30:32.765756+00:00",
   "channels": {
     "stickman": {
       "title": "Conta Desativada 3",
@@ -3278,7 +3278,7 @@
           "type": "video",
           "views": 0,
           "minutes": 0.0,
-          "net_subs": 0,
+          "net_subs": -1,
           "is_realtime": true
         }
       ],
@@ -10931,7 +10931,7 @@
           "day": "2026-11-27",
           "views": 0,
           "minutes": 0.0,
-          "net_subs": 0
+          "net_subs": -1
         }
       ],
       "traffic_sources_30d": [],
